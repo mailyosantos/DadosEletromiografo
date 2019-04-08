@@ -3,7 +3,7 @@ DadosEletromiografo
 Programa desenvolvido para ler os dados vindos da porta serial, enviados inicialmente por um eletromiógrafo construído por um professor da universidade para captar sinais vindos do músculo que serão mostrados na tela em tempo real. (2015/01)
 
 Componentes:
-* [Maily Santos](https://github.com/mailyosantos)
+* [Maily Santos](https://github.com/mailysantos)
 * [Denis Wilson](https://github.com/DenisWP)
 * [Rafael Turquetti](https://github.com/rturquetti)
  
